@@ -9,7 +9,7 @@
   <img align="right" height="220" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
 
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Azure DevOps, Docker**
 
 - 👯 I’m looking to collaborate on [Arogya Anugraha](https://github.com/matheshvishnu/arogya-anugraha-app)
 
