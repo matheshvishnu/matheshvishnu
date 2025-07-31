@@ -26,53 +26,46 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheshvishnu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🚀 Tech Stack
+## Tech Stack:
 <table align="center">
-
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br><b>Java</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br><b>Python</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br><b>TypeScript</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br><b>C</b></td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br><b>Next.js</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br><b>React</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br><b>Flutter</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/><br><b>Java</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/><br><b>Python</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/><br><b>JS</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/><br><b>TS</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/><br><b>C</b></td>
+<td align="center" width="80"><img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/favicon.ico" width="35"/><br><b>Next.js</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/><br><b>React</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35"/><br><b>Flutter</b></td>
+<td align="center" width="80"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35"/><br><b>Django</b></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/flask/ffffff" width="35"/><br><b>Flask</b></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br><b>Node.js</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br><b>Express</b></td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br><b>Django</b></td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/><br><b>Flask</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br><b>PHP</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br><b>Tailwind</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br><b>Firebase</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br><b>MySQL</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/><br><b>Node</b></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/express/ffffff" width="35"/><br><b>Express</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/><br><b>PHP</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/><br><b>Tailwind</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/><br><b>Firebase</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/><br><b>MySQL</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/><br><b>MongoDB</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35"/><br><b>GCP</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="35"/><br><b>Azure</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/><br><b>Git</b></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br><b>MongoDB</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br><b>GCP</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/><br><b>Azure</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br><b>Git</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br><b>Docker</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" width="40"/><br><b>Kubernetes</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br><b>Postman</b></td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" width="40"/><br><b>Swagger</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/><br><b>Docker</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="35"/><br><b>K8s</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/><br><b>Postman</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35"/><br><b>PyTorch</b></td>
+<td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35"/><br><b>TF</b></td>
+<td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/><br><b>Sklearn</b></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/pandas/150458" width="35"/><br><b>Pandas</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35"/><br><b>NumPy</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="35"/><br><b>Jenkins</b></td>
+<td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="35"/><br><b>Unity</b></td>
 </tr>
-
-<tr>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br><b>PyTorch</b></td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br><b>TensorFlow</b></td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br><b>Scikit-learn</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br><b>Pandas</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/><br><b>NumPy</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/><br><b>Jenkins</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40"/><br><b>Unity</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40"/><br><b>Unreal</b></td>
-</tr>
-
 </table>
 
 
