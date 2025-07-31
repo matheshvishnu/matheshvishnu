@@ -42,15 +42,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/matheshv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheshv/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/matheshvishnu_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/matheshvishnu_27/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mathesh27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mathesh27/" height="30" width="40" /></a>
-<a href="mailto:matheshvenkatesan@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="matheshvenkatesan@gmail.com" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/matheshv/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://www.instagram.com/matheshvishnu_27/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/mathesh27/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+<a href="mailto:matheshvenkatesan@gmail.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="30" width="30"/></a>&nbsp;
+<a href="https://portfolio-v-matheshs-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" height="30" width="30"/></a>
 </p>
 
-## Portfolio:
-<p align="center">
-  <a href="https://portfolio-v-matheshs-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
