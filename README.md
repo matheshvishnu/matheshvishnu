@@ -1,5 +1,5 @@
-<h1 align="center">Hi folks, I'm Mathesh V</h1>
-<h3 align="center">A multidisciplinary aspirant</h3>
+<h1 align="center">👋 Hi folks, I'm Mathesh V </h1>
+<h3 align="center" style="color: green;">✨ A multidisciplinary aspirant ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheshvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="matheshvishnu" /> </p>
 
