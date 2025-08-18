@@ -86,8 +86,8 @@
 <a href="https://linkedin.com/in/matheshv/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
 <a href="https://www.instagram.com/matheshvishnu_27/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 <a href="https://leetcode.com/u/mathesh27/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="mailto:matheshvenkatesan@gmail.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="30" width="30"/></a>&nbsp;
-<a href="https://portfolio-v-matheshs-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" height="30" width="30"/></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/1a1e6c3f-9c01-4f6f-bab5-f3a8e2d59bc7" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" width="30"/></a>
+<a href="mailto:matheshvenkatesan@gmail.com" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="30" width="35"/></a>&nbsp;
+<a href="https://portfolio-v-matheshs-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" height="30" width="35"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/1a1e6c3f-9c01-4f6f-bab5-f3a8e2d59bc7" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" width="35"/></a>
 </p>
 
