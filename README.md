@@ -1,12 +1,14 @@
-<h1 align="center">👋 Hi folks, I'm Mathesh V </h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hi folks 👋, I am Mathesh V </h1>
 <h3 align="center" style="color: green;">✨ A multidisciplinary aspirant ✨</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheshvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="matheshvishnu" /> </p>
 
 ## My Endeavours:
 
-  <img align="right" height="235" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
-
+  <img align="right" alt="Coding" height="300" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on [Song-App](https://github.com/matheshvishnu/song-app.git)
   
@@ -69,8 +71,6 @@
 </tr>
 </table>
 
-
-
 ## Open Source Contributions:
 
 <div align="center">
@@ -92,3 +92,7 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/1a1e6c3f-9c01-4f6f-bab5-f3a8e2d59bc7" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" width="35"/></a>
 </p>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="https://portfolio-v-matheshs-projects.vercel.app/">Mathesh v</a></p>
