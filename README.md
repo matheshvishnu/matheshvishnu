@@ -37,7 +37,7 @@
 
 ####  Overall GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&hide_border=false&theme=tokyonight&hide_border=false" alt="Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&theme=tokyonight&hide_border=false" alt="Summary"/>
 </p>
 
 ## Tech Stack:
