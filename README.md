@@ -24,10 +24,21 @@
 
 ## Statistics:
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheshvishnu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheshvishnu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ ####  Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+####  Contribution Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheshvishnu&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=matheshvishnu&theme=tokyonight&hide_border=false" alt="Contribution Streaks"/>
+</p>
+
+####  Overall GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&hide_border=false&theme=tokyonight&hide_border=false" alt="Summary"/>
+</p>
 
 ## Tech Stack:
 <table align="center">
