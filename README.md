@@ -26,13 +26,7 @@
 
  ####  Most Used Languages
 <div align="center">
-  <table border="3" cellspacing="6" cellpadding="4">
-    <tr>
-      <td bgcolor="#ffffff">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
 </div>
 
 ####  Contribution Stats & Streak
