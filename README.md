@@ -25,9 +25,15 @@
 ## Statistics:
 
  ####  Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <table border="3" cellspacing="6" cellpadding="4">
+    <tr>
+      <td bgcolor="#ffffff">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ####  Contribution Stats & Streak
 <p align="center">
