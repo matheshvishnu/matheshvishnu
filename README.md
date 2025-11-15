@@ -36,9 +36,15 @@
 </p>
 
 ####  Overall GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&theme=tokyonight&hide_border=false" alt="Summary"/>
-</p>
+<div align="center">
+  <table border="3" cellspacing="6" cellpadding="4">
+    <tr>
+      <td bgcolor="#ffffff">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&theme=tokyonight&hide_border=true" alt="Summary"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack:
 <table align="center">
