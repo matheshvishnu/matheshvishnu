@@ -30,10 +30,11 @@
 </div>
 
 ####  Contribution Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheshvishnu&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com/?user=matheshvishnu&theme=tokyonight&hide_border=false" alt="Contribution Streaks"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheshvishnu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=matheshvishnu&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+</div>
 
 ####  Overall GitHub Stats
 <div align="center">
