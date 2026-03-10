@@ -26,12 +26,12 @@
 
  ####  Most Used Languages
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshvishnu&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheshvishnu&theme=tokyonight&layout=donut"/>
 </div>
 
 ####  Contribution Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheshvishnu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matheshvishnu&show_icons=true&theme=tokyonight" width="495"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=matheshvishnu&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </div>
