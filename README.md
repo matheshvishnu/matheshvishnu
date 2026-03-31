@@ -10,11 +10,13 @@
 
   <img align="right" alt="Coding" height="300" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+- 🏀 My Magnum Opus research [CourtVision AI](https://courtvision-ai.streamlit.app/) 
+
 - 🔭 I’m currently working on [Song-App](https://github.com/matheshvishnu/song-app.git)
   
 - 🌱 I’m currently learning **Azure DevOps, Docker**
 
-- 👯 I’m looking to collaborate on [Arogya Anugraha](https://github.com/matheshvishnu/arogya-anugraha-app)
+- 👯 I’m looking to collaborate on [Arogya Anugraha](https://arogya-anugraha.vercel.app/)
 
 - 🤝 I’m looking for help with [Alpine Tulip](https://alpinetulipapt.vercel.app/)
 
