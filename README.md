@@ -97,7 +97,6 @@
   
 [![Beacon](https://readme-status-gamma.vercel.app/api/pin/?username=CCExtractor&repo=beacon&theme=react&show_owner=true)](https://github.com/CCExtractor/beacon/pull/266)
 [![Beacon](https://readme-status-gamma.vercel.app/api/pin/?username=CCExtractor&repo=beacon&theme=react&show_owner=true)](https://github.com/CCExtractor/beacon/pull/267)
-[![care_scribe_fe](https://readme-status-gamma.vercel.app/api/pin/?username=ohcnetwork&repo=care_scribe_fe&theme=react&show_owner=true)](https://github.com/ohcnetwork/care_scribe_fe/pull/28)
 
 </div>
 
