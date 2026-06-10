@@ -38,16 +38,7 @@
   <img src="https://streak-stats.demolab.com/?user=matheshvishnu&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </div>
 
-####  Overall GitHub Stats
-<div align="center">
-  <table border="3" cellspacing="6" cellpadding="4">
-    <tr>
-      <td bgcolor="#ffffff">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&theme=tokyonight&hide_border=true" alt="Summary"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ## Tech Stack:
 <table align="center">
@@ -90,6 +81,19 @@
 <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="35"/><br><b>Unity</b></td>
 </tr>
 </table>
+
+My Contributions Graph:
+
+<br/>
+<!-- <p align="center">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheshvishnu&theme=tokyo-night&hide_border=True&radius=10" alt="matheshvishnu" />
+</p> -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheshvishnu&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheshvishnu&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheshvishnu&theme=github_dark" />
+</p>
 
 ## Open Source Contributions:
 
